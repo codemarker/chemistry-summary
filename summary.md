@@ -622,19 +622,19 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
 
   ### 酸的化学性质：
 
-    - 酸与石蕊溶液和酚酞溶液的指示现象
-    - 酸与金属的反应，产生氢气：
+  - 酸与石蕊溶液和酚酞溶液的指示现象
+  - 酸与金属的反应，产生氢气：
 
-      $Mg + 2HCl \xlongequal{} MgCl_2 + H_2\uparrow\\$
-      $Zn + 2HCl \xlongequal{} ZnCl_2 + H_2\uparrow\\$
-      $Fe + 2HCl \xlongequal{} FeCl_2 + H_2\uparrow$
+    $Mg + 2HCl \xlongequal{} MgCl_2 + H_2\uparrow\\$
+    $Zn + 2HCl \xlongequal{} ZnCl_2 + H_2\uparrow\\$
+    $Fe + 2HCl \xlongequal{} FeCl_2 + H_2\uparrow$
 
-    - 酸与金属氧化物反应，产生盐和水：
+  - 酸与金属氧化物反应，产生盐和水：
 
-      $Fe_2O_3 + 6HCl \xlongequal{} 2FeCl_3 + 3H_2O\\$
-      $Fe_2O_3 + 3H_2SO_4 \xlongequal{} Fe_2(SO_4)_3 + 3H_2O\\$
+    $Fe_2O_3 + 6HCl \xlongequal{} 2FeCl_3 + 3H_2O\\$
+    $Fe_2O_3 + 3H_2SO_4 \xlongequal{} Fe_2(SO_4)_3 + 3H_2O\\$
 
-      利用铁锈与酸的反应可以去除铁锈
+    利用铁锈与酸的反应可以去除铁锈
 
 ### 3. 常见的碱（alkali）
 

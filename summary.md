@@ -1,4 +1,6 @@
-# 初中化学知识点总结
+
+
+# 学爸版初中化学知识总结😎
 
 ## 什么是化学
 化学是在分子、原子层次研究物质的性质、组成、结构和变化规律的科学
@@ -511,20 +513,23 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
   $4Fe + 3O_2 \xlongequal{高温} 2Fe_2O_3$
 
 2. 金属与稀盐酸和稀硫酸的反应，可以反映金属的活动性
-- 
-  $Mg + 2HCl \xlongequal{} MgCl_2 + H_2\uparrow\\$
-  $Zn + 2HCl \xlongequal{} ZnCl_2 + H_2\uparrow\\$
-  $Fe + 2HCl \xlongequal{} FeCl_2 + H_2\uparrow$
+
+
+    $Mg + 2HCl \xlongequal{} MgCl_2 + H_2\uparrow\\$
+
+    $Zn + 2HCl \xlongequal{} ZnCl_2 + H_2\uparrow\\$
+
+    $Fe + 2HCl \xlongequal{} FeCl_2 + H_2\uparrow$
 
 3. 知识点：置换反应（Single Displacement reaction）
--
-  公式表示：AB + C = AC + B 或者 A + BC = AC + B
-- 
-  一种单质与一种化合物反应，生成另一种单质和另一种化合物的反应
+  -
+    公式表示：AB + C = AC + B 或者 A + BC = AC + B
+  - 
+    一种单质与一种化合物反应，生成另一种单质和另一种化合物的反应
 
 4. 金属活动性顺序
-- 
-  $ \xrightarrow[活动性依次减弱]{K\ Ca\ Na\ Mg\ Al\ Zn\ Fe\ Sn\ Pb\ (H)\ Cu\ Hg\ Ag\ Pt\ Au}$
+
+    $ \xrightarrow[活动性依次减弱]{K\ Ca\ Na\ Mg\ Al\ Zn\ Fe\ Sn\ Pb\ (H)\ Cu\ Hg\ Ag\ Pt\ Au}$
 - 活动性强的金属能把比它弱的金属从其化合物溶液中置换出来
 - 位于氢前面的金属能从稀盐酸和稀硫酸中置换氢气
 
@@ -570,8 +575,10 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
   - 饱和溶液与不饱和溶液
   - 饱和（不饱和）溶液与溶剂的量、温度的关系
 
-    - 
-      $不饱和溶液\xtofrom[升高温度或增加溶剂]{添加溶质、降低温度或蒸发溶剂}饱和溶液 \xrightarrow[冷却]{蒸发溶剂}结晶$
+      $$
+      不饱和溶液\xtofrom[升高温度或增加溶剂]{添加溶质、降低温度或蒸发溶剂}饱和溶液 \xrightarrow[冷却]{蒸发溶剂}结晶
+      $$
+
   - 结晶（crystallize）条件：
 
     - 使溶液达到饱和
@@ -599,7 +606,7 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
 
   酸碱指示剂是一种能显示溶液酸碱性的物质，通常从植物中提取，指示剂与酸和碱反应显示不同的颜色：
 
-  $\left\{
+  $$\left\{
       \begin{array}{l}
         石蕊 + 酸 = 红色\\
         石蕊 + 碱 = 蓝色\\
@@ -607,7 +614,7 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
         酚酞 + 碱 = 红色
       \end{array}
     \right.
-    $
+    $$
   
   实验：自制酸碱指示剂，植物花瓣 + 乙醇 + 水
 
@@ -654,13 +661,15 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
   - 其他碱：氢氧化钾（$KOH$）和氨水（$NH_3 \cdot H_2O$）
 
   #### 常见碱的化学性质
-- 
-  氢氧化钠和氢氧化钙都能与二氧化碳反应：
 
-  $ CaOH + CO_2 \xlongequal{} CaCO_3 \downarrow + H_2O\\$
-  $ 2NaOH + CO_2 \xlongequal{} Na_2CO_3 + H_2O$
+    
+  - 氢氧化钠和氢氧化钙都能与二氧化碳反应：
 
-  碱能与某些非金属氧化物反应生成水
+    $ CaOH + CO_2 \xlongequal{} CaCO_3 \downarrow + H_2O\\$
+
+    $ 2NaOH + CO_2 \xlongequal{} Na_2CO_3 + H_2O$
+
+    碱能与某些非金属氧化物反应生成水
 
 
 #### 酸和碱有相似化学性质的原因
@@ -821,6 +830,5 @@ $CaO + H_2O \xlongequal{} Ca(OH)_2$
         - 使用可降解材料
         - 回收废旧塑料
       - 特殊合成材料
-      - 符合材料
-
+      - 复合材料
 
